@@ -1,0 +1,11 @@
+{
+  "name": "node-legendary-guacamole",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jeffessongomes/node-legendary-guacamole.git",
+  "author": "Jeffesson Gomes <jeffessong4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
