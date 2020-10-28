@@ -1,4 +1,4 @@
-<h1 align="center">GoStack Modulo 01</>
+<h1 align="center">GoStack Modulo 01</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/jeffessongomes/node-legendary-guacamole?style=for-the-badge">
@@ -12,7 +12,6 @@
 <p align="center">
  <a href="#computer-sobre">Sobre</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
