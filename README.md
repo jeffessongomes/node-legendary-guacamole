@@ -76,4 +76,5 @@ Feito com ❤️ por Jeffesson Gomes 👋🏽 Entre em contato!
 ### :page_facing_up: **Licença**
 
 <br />
+
 Este projeto é licenciado pelo [MIT](./LICENSE).
