@@ -22,7 +22,7 @@
 
 O servidor criado é apenas para reforçar os principais conceitos do NodeJS.
 
-Projeto desenvolvido durante o primeiro modulo do **GoStack**, oferecido pelo [Rocketseat](https://www.rocketseat.com.br).
+Projeto desenvolvido durante o primeiro modulo do **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
 ---
 ### :hammer: **Tecnologias**
