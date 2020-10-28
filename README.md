@@ -43,7 +43,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/jeffessongomes/node-legendary-guacamole>
+$ git clone https://github.com/jeffessongomes/node-legendary-guacamole
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd node-legendary-guacamole
